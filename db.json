@@ -1,0 +1,56 @@
+{
+  "posts" : [
+    {
+      "id": 1,
+      "title": "Introduction to Java",
+      "body": "Java is a versatile and powerful programming language...",
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Spring Boot",
+      "body": "Spring Boot makes it easy to create stand-alone applications...",
+    },
+    {
+      "id": 3,
+      "title": "Mastering ReactJS",
+      "body": "ReactJS is a popular JavaScript library for building user interfaces...",
+    },
+    {
+      "id": 4,
+      "title": "Advanced TypeScript",
+      "body": "TypeScript enhances JavaScript with static types...",
+    },
+    {
+      "id": 5,
+      "title": "Understanding WebRTC",
+      "body": "WebRTC enables real-time communication in the browser...",
+    }
+  ],
+  "users": [
+    {
+      "username": "john_doe",
+      "password": "securePassword123",
+      "fullname": "John Doe"
+    },
+    {
+      "username": "jane_smith",
+      "password": "myPassword2024",
+      "fullname": "Jane Smith"
+    },
+    {
+      "username": "dev_master",
+      "password": "passReact#01",
+      "fullname": "David Johnson"
+    },
+    {
+      "username": "typescript_guru",
+      "password": "typeSafe2024",
+      "fullname": "Emily Davis"
+    },
+    {
+      "username": "rtc_pro",
+      "password": "webRTC$secure",
+      "fullname": "Chris Brown"
+    }
+  ]
+}
